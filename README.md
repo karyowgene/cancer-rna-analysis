@@ -1,1 +1,1 @@
-Scripts to process RAN-seq data for somatic variant annotation
+Scripts and Snakemake workflow to process RNA-seq data for somatic variant annotation
